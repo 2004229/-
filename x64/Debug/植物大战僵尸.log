@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(96,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(97,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(106,21): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(108,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(153,32): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(168,32): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(186,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(235,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(262,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(265,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(264,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(245,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(308,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(308,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(388,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(390,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(391,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(411,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(411,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(412,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(412,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(414,27): warning C4305: “=”: 从“double”到“float”截断
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(768,14): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(767,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(783,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(783,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(797,14): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS代码\C++\植物大战僵尸\植物大战僵尸\main.cpp(796,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  植物大战僵尸.vcxproj -> D:\VS代码\C++\植物大战僵尸\x64\Debug\植物大战僵尸.exe
